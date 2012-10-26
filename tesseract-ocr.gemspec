@@ -1,4 +1,4 @@
-Kernel.load 'lib/tesseract/version.rb'
+Kernel.load './lib/tesseract/version.rb'
 
 Gem::Specification.new {|s|
 	s.name         = 'tesseract-ocr'
